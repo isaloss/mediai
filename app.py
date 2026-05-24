@@ -103,7 +103,7 @@ def gerar_pdf(prontuario, acuracia):
 # INTERFACE — INSERÇÃO MANUAL DE SINTOMAS
 # ============================================
 
-st.title('Sistema Clínico Integral com IA xx')
+st.title('Sistema Clínico Integral com IA')
 st.caption('Protótipo acadêmico — dados simulados, não use para decisão clínica real.')
 
 st.header('Dados do paciente')
